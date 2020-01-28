@@ -7,7 +7,7 @@ int main () {
         scanf("%d", &inpLen);
         getchar();
         scanf("%d", &res);
-        for(int i = 0; i < inpLen / 2; ++i){
+        for(int j = 0; j < inpLen / 2; ++j){
             scanf("%c%d", &ope, &inp);
             res += inp;
         }
