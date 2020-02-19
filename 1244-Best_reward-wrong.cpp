@@ -1,3 +1,5 @@
+// runtime error : segmentation fault
+
 #include<iostream>
 #include<cstring>
 
